@@ -1,0 +1,1 @@
+# RedirectOwnFront.UserScript
